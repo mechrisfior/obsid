@@ -1,0 +1,51 @@
+resource:: [OLSP New Webinar for Affiliate Marketers](https://vimeo.com/873314469/11d5e17d78)
+
+	- ### ^^Who Is This For:^^
+		-
+	- ### ^^What This Is Not:^^
+		- **This Is Not A "Get Wildly Rich In 10 Seconds" GIMMICK**
+		- **It's not Ponzi-Scheme, Multi level marketing or anything like that.**
+	- ## ^^Pain Points^^
+		- ### The Knowledge:
+		- ### The Work
+		- ### The Tech
+			- Technical learning curves
+				- *Thinking that you need be tech genius. It ain't to be like that*
+				  collapsed:: true
+					- You don't need to be a tech genius. In fact, where you are right now is exactly the tech skill you need and you don't need to build complicated websites and things like that.
+		- ### No TIME To Do It ALL
+			- *You don't want to replace a full time job, with another full time job*
+			-
+	- ## ^^Pain Relievers^^
+		- You Don't Need A Website, Technical Skills, Or To Find **Extra Time**
+		- Make This Kind Of Money As An Affiliate **WHILE** Being More Present With Your Children
+		- You Don't Have to Apply For Any Affiliate Offer **EVER**
+		-
+	- ## ^^**Benefits**^^
+		- Affiliate marketing is your first step on your journey to start generating a serious side income
+		- You Can Make Money With What You Already USE!
+		- All Commissions You Make From EVERYTHING Are Shown In Your Main OLSP Balance And You Collect It From There
+		- Because We Use Free Traffic To Get People to Offers...
+			- that Have deep product funnels  that pay 100% commissions ( or big commissions)
+			- That builds our list that promote more affiliate offers (that pay forever)
+				- That are digital and training products
+				- That Build 2nd Tier Commissions
+			- Tha
+		-
+		-
+	- ## ^^Hooks^^
+		- **Go From GROUND ZERO To Making Your First Commission Online Almost Instantly**
+			- Use Our Closely-Guarded Secret Hack For "Newbies" To Go From GROUND ZERO To Making Your First Commission Online Almost Instantly
+		- **The ONE Insider Secret That Will Make Your First Commission In Just Hours From Now**
+			- Even If You've Never Made A Single Dollar Online
+		- **Start A Brand New Income Stream As Soon As Tonight**
+		- **22,000 Get Results, Results, Results**
+		- **This is actually a real home-based business. You can start pretty quickly.**
+			- In fact, you can start as soon as a few hours from now.
+		- **Would You Like To Know My Secret Way That Multiplies YOU And Your Results?**
+	- ## ^^#ContentChunks^^
+		- **Would You Rather Use 2 Hours Of What You Already Spend On Social Media Making Money Or Watching Cat Videos?**
+		- ###
+- [[OLSP New Webinar for Affiliate Marketers/Hooks]]
+-
+-

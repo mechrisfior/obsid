@@ -1,0 +1,93 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "f4560acd-a2da-448b-b2ef-7ff794deb6eb",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "8ea89bf4-ad79-4f07-abfe-249494790ba3"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "3668273b-daf9-4bf0-9dce-0d671a13ad58",
+        "index": 0,
+        "creationTime": 1706281470200,
+        "lastEditedTime": 1706281470200
+      },
+      {
+        "id": "dbb172b5-0c13-4d99-b157-f807fd7b5475",
+        "index": 1,
+        "creationTime": 1706281489175,
+        "lastEditedTime": 1706281489175
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "c5be0e27-5b99-4d4d-b81c-be623e051b93"
+      },
+      {
+        "id": "b53016b4-2a07-4050-ac83-611a2f2f7cfa"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "74a1b7fa-c410-4343-afd2-7ffdea99c164",
+        "columnId": "f4560acd-a2da-448b-b2ef-7ff794deb6eb",
+        "rowId": "8ea89bf4-ad79-4f07-abfe-249494790ba3",
+        "markdown": "New Column"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "91fad1a4-8719-415f-b7db-a8022cb63a53",
+        "isExternalLink": false,
+        "columnId": "f4560acd-a2da-448b-b2ef-7ff794deb6eb",
+        "rowId": "3668273b-daf9-4bf0-9dce-0d671a13ad58",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "f09fd5a9-3ae8-45be-989b-6fb0dd123ce3",
+        "isExternalLink": false,
+        "columnId": "f4560acd-a2da-448b-b2ef-7ff794deb6eb",
+        "rowId": "dbb172b5-0c13-4d99-b157-f807fd7b5475",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "972bddf0-5a3a-4995-b5db-f3c9042c2eba",
+        "columnId": "f4560acd-a2da-448b-b2ef-7ff794deb6eb",
+        "rowId": "c5be0e27-5b99-4d4d-b81c-be623e051b93"
+      },
+      {
+        "id": "84623bed-aff0-4f21-9906-663a2b916e1c",
+        "columnId": "f4560acd-a2da-448b-b2ef-7ff794deb6eb",
+        "rowId": "b53016b4-2a07-4050-ac83-611a2f2f7cfa"
+      }
+    ],
+    "filterRules": [],
+    "settings": {
+      "numFrozenColumns": 1
+    }
+  },
+  "pluginVersion": "8.2.2"
+}
