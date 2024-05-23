@@ -1,5 +1,5 @@
 ---
-up: emoji//1f4da
+up: []
 ---
 # The Fourth Way
 
@@ -12,7 +12,7 @@ The Fourth Way is a philosophy and** path of personal development** that was dev
 
 The **Fourth Way** is based on the following principles:
 
-`###### **Self-awareness:**`
+### **Self-awareness:**`
 The first step on the Fourth Way is to become more aware of ourselves, our thoughts, and our emotions.
 ###### **Willpower:**
 We need to develop our willpower in order to overcome our limitations and achieve our goals.
