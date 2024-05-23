@@ -1,5 +1,8 @@
 ---
-up: []
+up:
+  - "[[Ideaverse Map]]"
+tags:
+  - MOC
 ---
 # The Fourth Way
 
