@@ -1,4 +1,3 @@
 ---
-up:
-  - "[[Ideaverse Map]]"
+up: []
 ---
