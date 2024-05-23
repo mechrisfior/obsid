@@ -1,3 +1,8 @@
+---
+up:
+  - "[[The Fourth Way MOC]]"
+---
+
 # The Transfiguration of Christ: A Christian Esoteric Perspective
 
 ---
