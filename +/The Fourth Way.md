@@ -1,5 +1,5 @@
 ---
-up: emoji//1f4da
+sticker: emoji//1f4da
 ---
 # The Fourth Way
 
