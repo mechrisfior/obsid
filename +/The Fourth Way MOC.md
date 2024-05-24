@@ -7,7 +7,7 @@ ta:
 Welcome to your MOC for **Gurdjieff's Fourth Way**. Use this page as a starting point to explore the various aspects and concepts of the Fourth Way.
 
 ## Main Topics
-- [[Gurdjieff and the Fourth Way]]
+- ## [[Gurdjieff and the Fourth Way]]
 - [[Fundamental Principles]]
 - [[Techniques and Practices]]
 - [[Teachings and Texts]]
