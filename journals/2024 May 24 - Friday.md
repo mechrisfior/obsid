@@ -1,7 +1,7 @@
 ---
 up:
   - TimeLine
-date: "2024-05-24"
+date: 2024-05-24
 tags:
   - timeline
   - daily-note
