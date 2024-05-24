@@ -15,6 +15,111 @@
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
+      },
+      {
+        "id": "b80e798d-6cf7-4610-8f5c-5c1710a4f87c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "55448ffe-6b2b-4294-b5b8-9628113f189a",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "52334271-58aa-46af-a6d3-818a4d591aa2",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "4e156b33-4de2-4871-b149-44f66b854d35",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "833970db-19cc-4a61-b07d-86504893a967",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "d2a00322-870b-4630-9c8a-f39393dc7d67",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "80788514-a84a-4b06-9de8-bffe8933c425",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
       }
     ],
     "headerRows": [
@@ -22,20 +127,7 @@
         "id": "8e6f784d-ff11-46a5-97f9-20781b51c005"
       }
     ],
-    "bodyRows": [
-      {
-        "id": "a48e8c40-c463-4f7b-8496-409da99c98d6",
-        "index": 0,
-        "creationTime": 1716561490945,
-        "lastEditedTime": 1716561490945
-      },
-      {
-        "id": "1a36268a-5373-435a-8065-33272d98a7a9",
-        "index": 1,
-        "creationTime": 1716561519432,
-        "lastEditedTime": 1716561533447
-      }
-    ],
+    "bodyRows": [],
     "footerRows": [
       {
         "id": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
@@ -50,28 +142,51 @@
         "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
         "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
         "markdown": "New Column"
-      }
-    ],
-    "bodyCells": [
-      {
-        "id": "33dddb67-aba8-496a-a8a2-6f29d253870b",
-        "isExternalLink": false,
-        "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
-        "rowId": "a48e8c40-c463-4f7b-8496-409da99c98d6",
-        "dateTime": null,
-        "markdown": "",
-        "tagIds": []
       },
       {
-        "id": "f21e7815-e695-4cf7-b33a-95bc24edf2d6",
-        "isExternalLink": false,
-        "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
-        "rowId": "1a36268a-5373-435a-8065-33272d98a7a9",
-        "dateTime": null,
-        "markdown": "https://www.tiktok.com/@astrology.zodiac.sign/video/7343714913283624235\nhttps://www.tiktok.com/@astrology.zodiac.sign/video/7259094680296590635\nhttps://www.tiktok.com/@astrology.zodiac.sign/video/7343346552536075566\n",
-        "tagIds": []
+        "id": "9765c517-5625-448e-b0b8-f4174bd34728",
+        "columnId": "b80e798d-6cf7-4610-8f5c-5c1710a4f87c",
+        "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
+        "markdown": "New Column"
+      },
+      {
+        "id": "2b096f65-c7d8-4c51-909e-c409f61f2b83",
+        "columnId": "55448ffe-6b2b-4294-b5b8-9628113f189a",
+        "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
+        "markdown": "New Column"
+      },
+      {
+        "id": "bfd75e21-363a-4617-bd21-f815e41041fd",
+        "columnId": "52334271-58aa-46af-a6d3-818a4d591aa2",
+        "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
+        "markdown": "New Column"
+      },
+      {
+        "id": "65b726b4-a346-45ab-a665-107ee72f945f",
+        "columnId": "4e156b33-4de2-4871-b149-44f66b854d35",
+        "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
+        "markdown": "New Column"
+      },
+      {
+        "id": "5c496c9d-1494-4d91-82d2-4b96769d0492",
+        "columnId": "833970db-19cc-4a61-b07d-86504893a967",
+        "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
+        "markdown": "New Column"
+      },
+      {
+        "id": "e557b8fa-9626-4fdb-8ac3-57f2b29fb80f",
+        "columnId": "d2a00322-870b-4630-9c8a-f39393dc7d67",
+        "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
+        "markdown": "New Column"
+      },
+      {
+        "id": "3001878c-7795-4118-9a07-549d7ce75e35",
+        "columnId": "80788514-a84a-4b06-9de8-bffe8933c425",
+        "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
+        "markdown": "New Column"
       }
     ],
+    "bodyCells": [],
     "footerCells": [
       {
         "id": "d3f09578-b27d-4d33-be4a-ebfb017d0f3d",
@@ -81,6 +196,76 @@
       {
         "id": "92b54781-6dec-494d-9342-8321ffd7fcf6",
         "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
+        "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      },
+      {
+        "id": "8d5d45a4-6964-4afb-88d1-1752495878f1",
+        "columnId": "b80e798d-6cf7-4610-8f5c-5c1710a4f87c",
+        "rowId": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "a6daaef9-f750-42ae-90e4-b6aba97d6e7b",
+        "columnId": "b80e798d-6cf7-4610-8f5c-5c1710a4f87c",
+        "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      },
+      {
+        "id": "56ee898d-4252-4468-a89f-40a686c84660",
+        "columnId": "55448ffe-6b2b-4294-b5b8-9628113f189a",
+        "rowId": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "eff19674-2a0c-4588-9a89-27441948695c",
+        "columnId": "55448ffe-6b2b-4294-b5b8-9628113f189a",
+        "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      },
+      {
+        "id": "b9b2cb70-1ba1-40a5-b5f0-f1c017bde649",
+        "columnId": "52334271-58aa-46af-a6d3-818a4d591aa2",
+        "rowId": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "29ffec5d-e447-422c-917d-dcbe1c4b2604",
+        "columnId": "52334271-58aa-46af-a6d3-818a4d591aa2",
+        "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      },
+      {
+        "id": "98a973f2-cfd4-4f8b-b19a-e006d05782a2",
+        "columnId": "4e156b33-4de2-4871-b149-44f66b854d35",
+        "rowId": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "bfd6ecab-4001-4532-bb15-a3c4588f9c1a",
+        "columnId": "4e156b33-4de2-4871-b149-44f66b854d35",
+        "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      },
+      {
+        "id": "8bc57189-e03a-4230-86bd-728aa0d80868",
+        "columnId": "833970db-19cc-4a61-b07d-86504893a967",
+        "rowId": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "4fca4f32-fd39-4870-91cb-e93d0501225c",
+        "columnId": "833970db-19cc-4a61-b07d-86504893a967",
+        "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      },
+      {
+        "id": "7fea2bda-7ed4-4655-86b4-4f544f2dc84b",
+        "columnId": "d2a00322-870b-4630-9c8a-f39393dc7d67",
+        "rowId": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "5a370e49-3d1f-4156-befb-7dc1b321f7c3",
+        "columnId": "d2a00322-870b-4630-9c8a-f39393dc7d67",
+        "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      },
+      {
+        "id": "7bd00954-32b2-4ea8-b78a-0de6a0dea986",
+        "columnId": "80788514-a84a-4b06-9de8-bffe8933c425",
+        "rowId": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "b4e9b352-365e-40b0-a0e7-7381012b5fbf",
+        "columnId": "80788514-a84a-4b06-9de8-bffe8933c425",
         "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
       }
     ],
