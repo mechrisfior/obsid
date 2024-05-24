@@ -9,6 +9,7 @@ tags:
   - self-observation
   - self-remembering
   - inner-work
+Summary: Another Day Without A Summary...
 ---
 ---
 
