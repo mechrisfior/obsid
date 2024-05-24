@@ -1,4 +1,4 @@
-<span class='gallery-span-info'> [[The Typical Lower State day.jpg]] </span>
+<span class='gallery-span-info'> [[The Typical Lower State day 1.jpg]] </span>
 
 %% Place Tags Here %%
 ```gallery-info
