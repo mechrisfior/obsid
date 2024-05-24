@@ -89,8 +89,7 @@ Summary: Another Day Without A Summary...
 ---
 
 ## Daily Summary
-```
-dataview
+``` dataview
 table duration, notes
 from "daily-notes"
 where date = this.file.name
