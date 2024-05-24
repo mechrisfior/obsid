@@ -1,7 +1,0 @@
-- Nel mese di settembre siamo collegati con la raccolta dell' uva e poi in ottobre si crea il vino. Questo è il periodo cosmico per fare questo tipo di trasformazioni interiori sul centro emozionale. Principalmente il [[KingHearts]], la parte intellettiva del nostro centro emozionale.
-- ## Le stagioni riflettono processi interni
-- ## Perchè Hai Cercato Una Scuola? KingHearts
-	- Ero in Cerca di Nuove Domande da Farmi, perche tutte le vecchie risposte del percorso tracciato dalle [[Influenze B]], hanno smesso di funzionare e motivare all'improvviso.
-	- xzx
-- #Book Incontri con Uomini Straordinari Gurdjieff
--
