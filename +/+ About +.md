@@ -11,3 +11,7 @@ Want to quickly capture a spark? Don't want to worry about organizing it?
 Put them here.
 
 When you're ready, you can process these notes later by going to your [[Add]] note.
+
+```dataview
+list table from /+
+```
