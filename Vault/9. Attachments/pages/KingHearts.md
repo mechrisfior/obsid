@@ -1,2 +1,0 @@
-- Quando facciamo uno sforzo per attivare il re di cuori , diveniamo più coscienti del momento presente in senso emozionale. #KingHearts
-- Interviene per risvegliare l'emozione per la ricerca del miracoloso #KingHearts

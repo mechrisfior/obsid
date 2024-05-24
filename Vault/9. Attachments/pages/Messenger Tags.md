@@ -1,3 +1,0 @@
-- thumb:. ![image.png](image_1699520943858_0.png)
-- ![image.png](image_1699520957630_0.png)
--

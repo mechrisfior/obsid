@@ -1,2 +1,0 @@
-- {{renderer block-calendar-yearly}}
--

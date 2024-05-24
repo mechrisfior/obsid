@@ -19,16 +19,9 @@ Welcome to your MOC for Gurdjieff's Fourth Way. Use this page as a starting poin
 - [[Connections with Other Traditions]]
 - [[Correlations with Western Magic]]
 
-## Gurdjieff and the Fourth Way
-- [[History of the Fourth Way]]
-- [[Gurdjieff and His Disciples]]
-- [[Schools and Movements]]
+## ![[Gurdjieff and the Fourth Way]]
+![[Fundamental Principles]]
 
-## Fundamental Principles
-- [[Self-Remembering]]
-- [[Inner Work]]
-- [[Human Centers]]
-- [[Symbolism and Mythology]]
 
 ## Techniques and Practices
 - [[Movements Exercises]]
@@ -56,12 +49,7 @@ Welcome to your MOC for Gurdjieff's Fourth Way. Use this page as a starting poin
 - [[Notes on "Beelzebub's Tales to His Grandson"]]
 - [[Notes on "Life is Real Only Then, When 'I Am"]]
 
-## Connections with Other Traditions
-- [[Sufism and the Fourth Way]]
-- [[Esoteric Christianity]]
-- [[Buddhism and the Fourth Way]]
+## ![[Connections with Other Traditions]]
 
-## Correlations with Western Magic
-- [[Hermetic Symbolism]]
-- [[Kabbalah and the Fourth Way]]
-- [[Alchemy and Inner Transformation]]
+
+## ![[Correlations with Western Magic]]
