@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"401732e90bf62a59","x":-1520,"y":240,"width":540,"height":720,"type":"link","url":"https://www.tiktok.com/@astrology.zodiac.sign/video/7343714913283624235\r\nhttps://www.tiktok.com/@astrology.zodiac.sign/video/7259094680296590635\r\nhttps://www.tiktok.com/@astrology.zodiac.sign/video/7343346552536075566"},
 		{"id":"00543d0731d4ed4b","x":-240,"y":-2320,"width":1560,"height":5600,"type":"link","url":"https://www.lovval.com"},
-		{"id":"3d6a6d5f71ebcf19","x":-1640,"y":4080,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-daughter"},
-		{"id":"c95572b1806c09eb","x":-3200,"y":4080,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-mother"},
-		{"id":"d542aed8388d3fc7","x":2680,"y":4080,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-wife"},
-		{"id":"37b08ad9198b3574","x":-120,"y":4080,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-granddaughter"}
+		{"id":"c95572b1806c09eb","x":-3120,"y":4080,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-mother"},
+		{"id":"37b08ad9198b3574","x":-240,"y":4080,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-granddaughter"},
+		{"id":"3d6a6d5f71ebcf19","x":-1680,"y":4080,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-daughter"},
+		{"id":"d542aed8388d3fc7","x":1200,"y":4080,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-wife"}
 	],
 	"edges":[]
 }
