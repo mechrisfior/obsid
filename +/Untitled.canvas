@@ -2,11 +2,9 @@
 	"nodes":[
 		{"id":"401732e90bf62a59","x":-1520,"y":240,"width":540,"height":720,"type":"link","url":"https://www.tiktok.com/@astrology.zodiac.sign/video/7343714913283624235\r\nhttps://www.tiktok.com/@astrology.zodiac.sign/video/7259094680296590635\r\nhttps://www.tiktok.com/@astrology.zodiac.sign/video/7343346552536075566"},
 		{"id":"00543d0731d4ed4b","x":-240,"y":-2320,"width":1560,"height":5600,"type":"link","url":"https://www.lovval.com"},
-		{"id":"ba0ce112f7f0f00a","x":-240,"y":4640,"width":1320,"height":1280,"type":"link","url":"https://lovval.com/collections/best-sellers"},
-		{"id":"ede0564e286d62cf","x":3760,"y":-540,"width":1160,"height":3000,"type":"link","url":"https://lovval.com/collections/forever-love"},
 		{"id":"c95572b1806c09eb","x":2120,"y":-2320,"width":1320,"height":1280,"type":"link","url":"https://lovval.com/collections/for-your-mother"},
-		{"id":"37b5aebbdac1cca9","x":5680,"y":-540,"width":1160,"height":3000,"type":"link","url":"https://lovval.com/collections/everlasting-love-necklaces"},
-		{"id":"d6400cdba20add37","x":1680,"y":-600,"width":1320,"height":1280,"type":"link","url":"https://lovval.com/collections/for-your-mother"}
+		{"id":"d6400cdba20add37","x":1600,"y":-560,"width":1320,"height":1280,"type":"link","url":"https://lovval.com/collections/for-your-mother"},
+		{"id":"d542aed8388d3fc7","x":3000,"y":-880,"width":1320,"height":3000,"type":"link","url":"https://lovval.com/collections/for-your-wife"}
 	],
 	"edges":[]
 }
