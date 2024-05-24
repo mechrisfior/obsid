@@ -1,0 +1,93 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "8e6f784d-ff11-46a5-97f9-20781b51c005"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "a48e8c40-c463-4f7b-8496-409da99c98d6",
+        "index": 0,
+        "creationTime": 1716561490945,
+        "lastEditedTime": 1716561490945
+      },
+      {
+        "id": "1a36268a-5373-435a-8065-33272d98a7a9",
+        "index": 1,
+        "creationTime": 1716561519432,
+        "lastEditedTime": 1716561533447
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "e6f4b351-9300-45fd-9c76-5427d7e2a665",
+        "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
+        "rowId": "8e6f784d-ff11-46a5-97f9-20781b51c005",
+        "markdown": "New Column"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "33dddb67-aba8-496a-a8a2-6f29d253870b",
+        "isExternalLink": false,
+        "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
+        "rowId": "a48e8c40-c463-4f7b-8496-409da99c98d6",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "f21e7815-e695-4cf7-b33a-95bc24edf2d6",
+        "isExternalLink": false,
+        "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
+        "rowId": "1a36268a-5373-435a-8065-33272d98a7a9",
+        "dateTime": null,
+        "markdown": "https://www.tiktok.com/@astrology.zodiac.sign/video/7343714913283624235\nhttps://www.tiktok.com/@astrology.zodiac.sign/video/7259094680296590635\nhttps://www.tiktok.com/@astrology.zodiac.sign/video/7343346552536075566\n",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "d3f09578-b27d-4d33-be4a-ebfb017d0f3d",
+        "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
+        "rowId": "6bb835cc-0d4d-4ea8-969f-2af749b21c0d"
+      },
+      {
+        "id": "92b54781-6dec-494d-9342-8321ffd7fcf6",
+        "columnId": "05fe6927-7db5-4880-8f03-faa52f6ecd33",
+        "rowId": "712de4b9-12a5-42a5-b9b1-d67e17615a98"
+      }
+    ],
+    "filterRules": [],
+    "settings": {
+      "numFrozenColumns": 1
+    }
+  },
+  "pluginVersion": "8.2.2"
+}
