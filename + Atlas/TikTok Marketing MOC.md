@@ -27,7 +27,7 @@ The most crucial step to accessing CRP from around the world is getting your han
 Now that you have access to the Creator Rewards Program, you can start grinding to 10,000 followers. Or… **You can get monetized from day 1 with a 0 follower CRP account.** To simplify it, Tiktok now offers a new program where you link a Youtube Account with 10,000 subscribers to TikTok, and get monetized in return. 
 
 
-# 📙│ MODULE 2
+# MODULE 2
 
 ### SHADOWBANS, SHADOWBANS & SHADOWBANS...
 
