@@ -108,3 +108,32 @@ Amazon Finds - [https://www.tiktok.com/@sam.shan.shops](https://www.tiktok.com/@
 Bouncing Ball - [https://www.tiktok.com/@bouncing_ball5](https://www.tiktok.com/@bouncing_ball5 "https://www.tiktok.com/@bouncing_ball5") 
 
 **IMPORTANT:** These niches can get you started, but don’t just copy them. You need to put your own twist on them to stand out. Think about it: Reddit stories were great a while ago, but it's way too competitive to begin with nowadays. In order to succeed, you have to add unique elements to the style of the content. Let's learn how to create the actual content
+# MODULE 5
+
+### CREATING THE CONTENT
+
+‎ ‎‎ Now that you have a niche its time to start posting. But.. ..the videos need to be high quality to go viral. A good video is a combination of several key components ![👇](https://discordapp.com/assets/4d60e09c101c5d647403.svg)
+
+## Good Hook
+
+This might be the most important thing when creating your TikTok videos. It's said that the first 1-2 seconds of your video are the most important. The hook should immediately grab viewers' attention and make them want to keep watching. It should **invoke strong emotions.** **Controversy works well** to get viewers to stop their mindless scroll.
+
+## Quality Script
+
+This will also make or break your video. While a hook is key to capturing your viewer's attention, your script is what will determine the video's retention. Try not to rely on AI for your scripts too much, as it will make it nearly impossible to make scripts that are genuinely engaging. So drop ChatGPT and learn to write scripts yourself. This will allow you to get a MUCH BETTER understanding of what makes content good.
+
+## Crisp Audio
+
+You want to make sure your video has a good voice-over & music. [ElevenLabs](https://try.elevenlabs.io/rdwun2gcsw87 "ElevenLabs
+(https://try.elevenlabs.io/rdwun2gcsw87)") - High-quality AI voice-overs. [YouTube](https://www.youtube.com/ "YouTube
+(https://www.youtube.com/)") - Find & download background music. [Free SFX bundle](https://howtoai.pro/products/trending-tiktok-sound-effects "Free SFX bundle
+(https://howtoai.pro/products/trending-tiktok-sound-effects)") - Trending sound effects for your content.
+
+## Other Popular Websites
+
+[CapCut](https://capcutaffiliateprogram.pxf.io/75Pdr3 "CapCut
+(https://capcutaffiliateprogram.pxf.io/75Pdr3)") - Free video editor [Canva](https://partner.canva.com/ZQ5b4K "Canva
+(https://partner.canva.com/ZQ5b4K)") - Bulk creation tool (find tutorials on my YouTube) [Kalodata](https://kalodata.com/?tc=howtoai10 "Kalodata
+(https://kalodata.com/?tc=howtoai10)") - Find TikTok Shop products [Leonardo AI](https://app.leonardo.ai/?via=howtoai "Leonardo AI
+(https://app.leonardo.ai/?via=howtoai)") - AI image generator (cheapest/free) If you need help with any video creation or ideation, every ⁠🚀│upgrade member gets a private mentor.
+
