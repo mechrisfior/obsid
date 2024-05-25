@@ -132,8 +132,40 @@ You want to make sure your video has a good voice-over & music. [ElevenLabs](htt
 ## Other Popular Websites
 
 [CapCut](https://capcutaffiliateprogram.pxf.io/75Pdr3 "CapCut
-(https://capcutaffiliateprogram.pxf.io/75Pdr3)") - Free video editor [Canva](https://partner.canva.com/ZQ5b4K "Canva
-(https://partner.canva.com/ZQ5b4K)") - Bulk creation tool (find tutorials on my YouTube) [Kalodata](https://kalodata.com/?tc=howtoai10 "Kalodata
-(https://kalodata.com/?tc=howtoai10)") - Find TikTok Shop products [Leonardo AI](https://app.leonardo.ai/?via=howtoai "Leonardo AI
+(https://capcutaffiliateprogram.pxf.io/75Pdr3)") - Free video editor
+[Canva](https://partner.canva.com/ZQ5b4K "
+Canva
+(https://partner.canva.com/ZQ5b4K)") - Bulk creation tool (find tutorials on my YouTube)
+[Kalodata](https://kalodata.com/?tc=howtoai10 "Kalodata
+(https://kalodata.com/?tc=howtoai10)") - Find TikTok Shop products
+
+[Leonardo AI](https://app.leonardo.ai/?via=howtoai "Leonardo AI
 (https://app.leonardo.ai/?via=howtoai)") - AI image generator (cheapest/free) If you need help with any video creation or ideation, every ⁠🚀│upgrade member gets a private mentor.
 
+# MODULE 6
+
+### COMMON PRACTICES / IMPORTANT KNOWLEDGE
+
+‎ ‎ Here's some valuable information you can keep in mind when starting TikTok automation:
+
+## POSTING
+
+- **You need to post consistently**
+    
+    - Post 1-2 times a day and stick with it
+    - Try your best to never miss a day
+    
+
+- **When posting a video make sure you don’t have too many hashtags**
+    
+    - Keep it around 3-5 good hashtags
+    - Also note that hashtags aren't that important, so don’t get caught up on them.
+    
+
+## When To Swap Niche
+
+There’s a chance that the niche you pick won’t be good, or perform well enough. You **need to know** when it’s time to switch paths. If you're posting consistent, high-quality videos for 2 weeks and have not gotten a post beyond 10,000 views.. **..switch niche.**
+
+- Always keep up with trends to know if there's any major development in your niche that can help you go viral.
+
+This can be done through supervising your competitors and analysing any viral content they post. Trendy memes can also be used in your content to boost engagement. A great example of this is the texting niche. Here's a regular texting niche account: [https://www.tiktok.com/@texty.stories.daily](https://www.tiktok.com/@texty.stories.daily "https://www.tiktok.com/@texty.stories.daily") Here's a new twist to the niche that emerged, causing some creators to BLOW UP: [https://www.tiktok.com/@mr.month](https://www.tiktok.com/@mr.month "https://www.tiktok.com/@mr.month") All they did was swap the AI voice-over to one that is singing. **And with that you should be able to make your first $$$ with TikTok.**
