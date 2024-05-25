@@ -24,17 +24,10 @@ The most crucial step to accessing CRP from around the world is getting your han
 - Access to the CRP
 - TikTok Shop access
 
-Now that you have access to the Creator Rewards Program, you can start grinding to 10,000 followers. Or… **You can get monetized from day 1 with a 0 follower CRP account.** To simplify it, Tiktok now offers a new program where you link a Youtube Account with 10,000 subscribers to TikTok, and get monetized in return. Now not everyone will have an organic YouTube channel or easy access to US accounts, so, I partnered with [TikAccounts](https://tikaccounts.com/products/monetized-crp-account "TikAccounts
-(https://tikaccounts.com/products/monetized-crp-account)") to offer reliable accounts. Check it out ![👇](https://discordapp.com/assets/4d60e09c101c5d647403.svg)
+Now that you have access to the Creator Rewards Program, you can start grinding to 10,000 followers. Or… **You can get monetized from day 1 with a 0 follower CRP account.** To simplify it, Tiktok now offers a new program where you link a Youtube Account with 10,000 subscribers to TikTok, and get monetized in return. 
 
-### [Monetized TikTok account](https://tikaccounts.com/products/monetized-crp-account "Monetized TikTok account
-(https://tikaccounts.com/products/monetized-crp-account)")
 
-‎ ‎ Now that you're ready, let's progress to
-
-## ⁠📙│module-2
-
-# MODULE 2
+# 📙│ MODULE 2
 
 ### SHADOWBANS, SHADOWBANS & SHADOWBANS...
 
@@ -68,11 +61,5 @@ To identify if your account is shadowbanned:
 
 Not shadowbanned? Let's start making money
 
-## ⁠📙│module-3
 
-‎ ‎‎ ‎‎ ‎
-
-![Image](https://images-ext-1.discordapp.net/external/jAoTDML0McpmKt99lb-KImUCcY6vfw9eQue2PSbwbXA/https/cdn-longterm.mee6.xyz/plugins/embeds/images/1235228281800757318/1185d91d401061a614524426ab8cd8253e87e6485f98ec17b8ce7a23e93fcc55.png?format=webp&quality=lossless&width=80&height=80)
-
-Learn more about our private community here 👇
 
