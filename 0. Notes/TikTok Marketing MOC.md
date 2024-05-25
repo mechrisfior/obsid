@@ -33,3 +33,46 @@ Now that you have access to the Creator Rewards Program, you can start grinding 
 ‎ ‎ Now that you're ready, let's progress to
 
 ## ⁠📙│module-2
+
+# MODULE 2
+
+### SHADOWBANS, SHADOWBANS & SHADOWBANS...
+
+‎ ‎‎ ‎‎ ‎ Shadowbans can be EXTREMELY frustrating. I know that since I have been there countless times. But you can avoid it.
+
+## Warming Up Your Account
+
+This is the most important part for avoiding shadowbans. Common practices:
+
+- Scroll on the FYP for a couple of days
+- Few hours a day
+- Engage on TikTok as a normal user (liking, commenting, etc.)
+
+![:utility5:](https://cdn.discordapp.com/emojis/1235304549020074047.webp?size=44&quality=lossless) Don't overdo the liking, commenting, following. It should be a natural amount to make it look human to TikTok. Following every person in your feed will get your account shadowbanned. Some other things to keep in mind ![👇](https://discordapp.com/assets/4d60e09c101c5d647403.svg)
+
+- Don’t violate community guidelines
+- Don't steal content
+- Don’t have too many accounts on 1 device (4-5 is the limit)
+
+Even if you follow the steps above, it's possible to get shadowbanned. If you ever need more help, our mentors offer 24/7 support in the Growth Program. ⁠🚀│upgrade here.
+
+## Identifying Shadowbans
+
+To identify if your account is shadowbanned:
+
+1. Watch your views. If you consistently get low views (below 30), then you are shadowbanned.
+
+2. If your videos can’t be seen by other accounts, you're shadowbanned.
+
+3. If your follows don’t register after refreshing the page, you're shadowbanned.
+
+Not shadowbanned? Let's start making money
+
+## ⁠📙│module-3
+
+‎ ‎‎ ‎‎ ‎
+
+![Image](https://images-ext-1.discordapp.net/external/jAoTDML0McpmKt99lb-KImUCcY6vfw9eQue2PSbwbXA/https/cdn-longterm.mee6.xyz/plugins/embeds/images/1235228281800757318/1185d91d401061a614524426ab8cd8253e87e6485f98ec17b8ce7a23e93fcc55.png?format=webp&quality=lossless&width=80&height=80)
+
+Learn more about our private community here 👇
+
