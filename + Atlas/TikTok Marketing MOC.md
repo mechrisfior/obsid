@@ -63,3 +63,37 @@ Not shadowbanned? Let's start making money
 
 
 
+# MODULE 3
+
+### FINDING A GOOD NICHE
+
+‎ ‎‎ ‎ Choosing your niche is the most important decision you will make, especially as a beginner. ‎ So make sure to pay extra attention to choose the right niche for you.
+
+## How To Do It
+
+To find niches, you need to scroll through your TikTok FYP.
+
+1. Find content that is faceless, performs very well & easily could be automated.
+
+2. Engage with the content when you've found a potential topic, such as AI content.
+
+TikTok will start feeding you more similar content, and then you’ll start to find niches you’ve never seen.
+
+3. Take all those ideas of new content and narrow it down to one.
+
+When deciding on your niche, it's important that it meets specific criteria:
+
+- Make sure videos in this niche are **currently** getting good views.
+- It shouldn't be too saturated. If there are dozens of accounts attempting to try the same niche, competing with them will be hard.
+- Analyse if the videos within the niche can have 1+ minute length and still perform well (only 1+ minute videos are eligible for CRP)
+- Is the content sustainable to mass-produce? Can it be made easily yet have a high-perceived value?
+
+Finding something you are passionate about always helps as when the times get tough, as it will be easier for you to stick through it. In the next module, we extracted some good niches from the niche list in ⁠🚀│upgrade.
+
+# MODULE 4
+
+### RECOMMENDED NICHES
+
+‎ ‎‎ ‎ Here's a list of some great current niches. This is about 5% of the niche list available in ⁠🚀│upgrade. The niche list is being continously updated with untapped niches. ‎ Avoid Saying The Same Thing As Me - [https://www.tiktok.com/@ai_aestheticc](https://www.tiktok.com/@ai_aestheticc "https://www.tiktok.com/@ai_aestheticc") Le Engin - [https://www.tiktok.com/@le.engin](https://www.tiktok.com/@le.engin "https://www.tiktok.com/@le.engin") Geo Facts - [https://www.tiktok.com/@geofactsop](https://www.tiktok.com/@geofactsop "https://www.tiktok.com/@geofactsop") Hopecore - [https://www.tiktok.com/@hopemotives](https://www.tiktok.com/@hopemotives "https://www.tiktok.com/@hopemotives") Hatecore - [https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1](https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1 "https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1") Test Grading - [https://www.tiktok.com/@mrteacheralex](https://www.tiktok.com/@mrteacheralex "https://www.tiktok.com/@mrteacheralex") Urban AI Stories - [https://www.tiktok.com/@urbanamerica](https://www.tiktok.com/@urbanamerica "https://www.tiktok.com/@urbanamerica") BeamNG Drive - [https://www.tiktok.com/@beamng_planet](https://www.tiktok.com/@beamng_planet "https://www.tiktok.com/@beamng_planet") Amazon Finds - [https://www.tiktok.com/@sam.shan.shops](https://www.tiktok.com/@sam.shan.shops "https://www.tiktok.com/@sam.shan.shops") Bouncing Ball - [https://www.tiktok.com/@bouncing_ball5](https://www.tiktok.com/@bouncing_ball5 "https://www.tiktok.com/@bouncing_ball5") 
+
+**IMPORTANT:** These niches can get you started, but don’t just copy them. You need to put your own twist on them to stand out. Think about it: Reddit stories were great a while ago, but it's way too competitive to begin with nowadays. In order to succeed, you have to add unique elements to the style of the content. Let's learn how to create the actual content
