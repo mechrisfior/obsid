@@ -20,7 +20,7 @@ Welcome to your MOC for **Gurdjieff's Fourth Way**. Use this page as a starting 
 
 # [[Gurdjieff's Path for New Students]]
 
-Welcome, new student. Here is a comprehensive list of concepts and practices you must explore and understand to progress on the path of the Fourth Way.
+Welcome, Here is a comprehensive list of concepts and practices you must explore and understand to progress on the path of the Fourth Way.
 
 ## Foundational Concepts
 - [[Self-Remembering]]
