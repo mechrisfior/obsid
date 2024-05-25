@@ -124,18 +124,20 @@ This will also make or break your video. While a hook is key to capturing your v
 
 ## Crisp Audio
 
-You want to make sure your video has a good voice-over & music. [ElevenLabs](https://try.elevenlabs.io/rdwun2gcsw87 "ElevenLabs
-(https://try.elevenlabs.io/rdwun2gcsw87)") - High-quality AI voice-overs. [YouTube](https://www.youtube.com/ "YouTube
-(https://www.youtube.com/)") - Find & download background music. [Free SFX bundle](https://howtoai.pro/products/trending-tiktok-sound-effects "Free SFX bundle
+You want to make sure your video has a good voice-over & music. 
+[ElevenLabs](https://try.elevenlabs.io/rdwun2gcsw87 "ElevenLabs
+(https://try.elevenlabs.io/rdwun2gcsw87)") - High-quality AI voice-overs. 
+[YouTube](https://www.youtube.com/ "YouTube
+(https://www.youtube.com/)") - Find & download background music.
+[Free SFX bundle](https://howtoai.pro/products/trending-tiktok-sound-effects "Free SFX bundle
 (https://howtoai.pro/products/trending-tiktok-sound-effects)") - Trending sound effects for your content.
 
 ## Other Popular Websites
 
-[CapCut](https://capcutaffiliateprogram.pxf.io/75Pdr3 "CapCut
+- [CapCut](https://capcutaffiliateprogram.pxf.io/75Pdr3 "CapCut
 (https://capcutaffiliateprogram.pxf.io/75Pdr3)") - Free video editor
 [Canva](https://partner.canva.com/ZQ5b4K "
-Canva
-(https://partner.canva.com/ZQ5b4K)") - Bulk creation tool (find tutorials on my YouTube)
+Canva (https://partner.canva.com/ZQ5b4K)") - Bulk creation tool (find tutorials on my YouTube)
 [Kalodata](https://kalodata.com/?tc=howtoai10 "Kalodata
 (https://kalodata.com/?tc=howtoai10)") - Find TikTok Shop products
 
