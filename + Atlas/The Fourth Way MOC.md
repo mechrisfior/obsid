@@ -1,8 +1,8 @@
 ---
-up: []
+up: 
 tags:
   - MOC/FourthWay
-ta:
+down:
 ---
 Welcome to your MOC for **Gurdjieff's Fourth Way**. Use this page as a starting point to explore the various aspects and concepts of the Fourth Way.
 
