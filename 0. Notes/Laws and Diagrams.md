@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[The Fourth Way MOC]]"
+  - "[[+ Atlas/The Fourth Way MOC]]"
 ---
 
 The Fourth Way of Gurdjieff is based on several laws and diagrams that help understand the functioning of the universe and the human being.

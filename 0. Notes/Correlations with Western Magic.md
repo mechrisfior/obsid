@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[The Fourth Way MOC]]"
+  - "[[+ Atlas/The Fourth Way MOC]]"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[The Fourth Way MOC]]"
+  - "[[+ Atlas/The Fourth Way MOC]]"
 ---
 
 Several authors have contributed to spreading and developing Gurdjieff's teachings.
