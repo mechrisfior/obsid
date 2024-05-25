@@ -22,7 +22,6 @@
 - [[MidJourney Features MOC]]
 - [[Learning Resources MOC]]
 - [[Techniques and Tips MOC]]
-- [[Zettelkasten Method MOC]]
 
 
 [Site Unreachable](https://youtu.be/Ct9vtG-YLbI)
