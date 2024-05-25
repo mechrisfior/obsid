@@ -94,6 +94,17 @@ Finding something you are passionate about always helps as when the times get to
 
 ### RECOMMENDED NICHES
 
-‎ ‎‎ ‎ Here's a list of some great current niches. This is about 5% of the niche list available in ⁠🚀│upgrade. The niche list is being continously updated with untapped niches. ‎ Avoid Saying The Same Thing As Me - [https://www.tiktok.com/@ai_aestheticc](https://www.tiktok.com/@ai_aestheticc "https://www.tiktok.com/@ai_aestheticc") Le Engin - [https://www.tiktok.com/@le.engin](https://www.tiktok.com/@le.engin "https://www.tiktok.com/@le.engin") Geo Facts - [https://www.tiktok.com/@geofactsop](https://www.tiktok.com/@geofactsop "https://www.tiktok.com/@geofactsop") Hopecore - [https://www.tiktok.com/@hopemotives](https://www.tiktok.com/@hopemotives "https://www.tiktok.com/@hopemotives") Hatecore - [https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1](https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1 "https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1") Test Grading - [https://www.tiktok.com/@mrteacheralex](https://www.tiktok.com/@mrteacheralex "https://www.tiktok.com/@mrteacheralex") Urban AI Stories - [https://www.tiktok.com/@urbanamerica](https://www.tiktok.com/@urbanamerica "https://www.tiktok.com/@urbanamerica") BeamNG Drive - [https://www.tiktok.com/@beamng_planet](https://www.tiktok.com/@beamng_planet "https://www.tiktok.com/@beamng_planet") Amazon Finds - [https://www.tiktok.com/@sam.shan.shops](https://www.tiktok.com/@sam.shan.shops "https://www.tiktok.com/@sam.shan.shops") Bouncing Ball - [https://www.tiktok.com/@bouncing_ball5](https://www.tiktok.com/@bouncing_ball5 "https://www.tiktok.com/@bouncing_ball5") 
+‎ ‎Here's a list of some great current niches. This is about 5% of the niche list available in ⁠🚀│upgrade. The niche list is being continously updated with untapped niches. ‎
+
+Avoid Saying The Same Thing As Me - [https://www.tiktok.com/@ai_aestheticc](https://www.tiktok.com/@ai_aestheticc "https://www.tiktok.com/@ai_aestheticc") 
+Le Engin - [https://www.tiktok.com/@le.engin](https://www.tiktok.com/@le.engin "https://www.tiktok.com/@le.engin")
+Geo Facts - [https://www.tiktok.com/@geofactsop](https://www.tiktok.com/@geofactsop "https://www.tiktok.com/@geofactsop")
+Hopecore - [https://www.tiktok.com/@hopemotives](https://www.tiktok.com/@hopemotives "https://www.tiktok.com/@hopemotives")
+Hatecore - [https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1](https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1 "https://www.tiktok.com/@hat3c0r3?_t=8ldsWiKyDb8&_r=1")
+Test Grading - [https://www.tiktok.com/@mrteacheralex](https://www.tiktok.com/@mrteacheralex "https://www.tiktok.com/@mrteacheralex")
+Urban AI Stories - [https://www.tiktok.com/@urbanamerica](https://www.tiktok.com/@urbanamerica "https://www.tiktok.com/@urbanamerica")
+BeamNG Drive - [https://www.tiktok.com/@beamng_planet](https://www.tiktok.com/@beamng_planet "https://www.tiktok.com/@beamng_planet")
+Amazon Finds - [https://www.tiktok.com/@sam.shan.shops](https://www.tiktok.com/@sam.shan.shops "https://www.tiktok.com/@sam.shan.shops")
+Bouncing Ball - [https://www.tiktok.com/@bouncing_ball5](https://www.tiktok.com/@bouncing_ball5 "https://www.tiktok.com/@bouncing_ball5") 
 
 **IMPORTANT:** These niches can get you started, but don’t just copy them. You need to put your own twist on them to stand out. Think about it: Reddit stories were great a while ago, but it's way too competitive to begin with nowadays. In order to succeed, you have to add unique elements to the style of the content. Let's learn how to create the actual content
