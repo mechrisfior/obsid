@@ -234,19 +234,9 @@ A sample front matter template:
 ```handlebars
 id: {{{id}}}
 title:  {{{title}}}
-
 author: {{{author}}}
-{{/author}}
-{{#labels.length}}
-tags:
-{{#labels}} - {{{name}}}
-{{/labels}}
-{{/labels.length}}
+tags: Captures/{{#labels}} - {{{name}}}
 date_saved: {{{dateSaved}}}
-{{#datePublished}}
-date_published: {{{datePublished}}}
-{{/datePublished}}
-
 ```
 
 ## Customizing where the data is saved in Obsidian 
