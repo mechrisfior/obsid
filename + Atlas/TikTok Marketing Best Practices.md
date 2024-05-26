@@ -1,5 +1,5 @@
 ---
-up: [[TikTok Marketing ]]
+up: [[TikTok Marketing MOC]]
 ---
 
 # MODULE 1
