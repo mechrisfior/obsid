@@ -1,3 +1,7 @@
+---
+up: [[TikTok Marketing ]]
+---
+
 # MODULE 1
 
 ### ACCESSING THE TIKTOK CREATOR REWARDS PROGRAM FROM ANYWHERE
