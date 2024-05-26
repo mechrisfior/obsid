@@ -1,5 +1,9 @@
 ---
-    tags: [Resources, AI, TikTok, Research]
+tags:
+  - Resources
+  - AI
+  - TikTok
+  - Research
 ---
 A collection of external resources for further reading and research on MidJourney AI and its application in creating viral TikTok videos.
 
