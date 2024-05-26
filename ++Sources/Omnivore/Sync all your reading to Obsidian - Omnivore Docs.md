@@ -231,7 +231,7 @@ The available variables are the same as the [variables in the article template](
 
 A sample front matter template:
 
-```handlebars
+```
 id: {{{id}}}
 title:  {{{title}}}
 author: {{{author}}}
