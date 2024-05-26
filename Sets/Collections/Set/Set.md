@@ -5,12 +5,14 @@ type: collection
 scope:
   - collection
   - "@link-to-this"
-viewMode: list
-timestamp: 1716719263132
+viewMode: board
+timestamp: 1716719493720
 fields:
   - __bname
   - created
   - up
   - down
+board:
+  groupField: id
 
 ```
