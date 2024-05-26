@@ -2,6 +2,7 @@
 up: "[[TikTok Marketing Best Practices]]"
 source: https://drive.google.com/drive/folders/1cEKSSK_IG54XUSkiXzaInZDKQsKtY1IR
 Summary: You get the audio first, then you can sync your generated image talking head audio through the d-id platform
+video timestamps:
 ---
 - get the script
 - Generate audio
@@ -11,4 +12,5 @@ Summary: You get the audio first, then you can sync your generated image talking
 - Put them in the timeline
 	- Find the lines for the talkin heads
 	- Cut them
-	- upload 
+	- upload to the hypen-id
+- Have the filler videos between prompts
