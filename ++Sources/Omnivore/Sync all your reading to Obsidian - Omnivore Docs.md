@@ -27,14 +27,14 @@ Omninove integrates with Obsidian via the [obsidian-omnivore](https://github.com
    * [Sync all the items into a single note](#sync-all-the-items-into-a-single-note)
 * [Scheduled Sync](#scheduled-sync)
 
-## Features 
+## Features
 
 * Import your highlights and saved articles
 * Create graphs based on Omnivore data
 * Filter imported data using Omnivore's [advanced search syntax](https://omnivore.app/help/search)
 * Custom templates for imported data
 
-## Installation 
+## Installation
 
 1. Install and enable the plugin from the Community Plugins section of Obsidian or [build it from source](https://github.com/omnivore-app/obsidian-omnivore) and load the unpacked plugin.
 2. Sign up for an [Omnivore account](https://omnivore.app/).
@@ -42,15 +42,15 @@ Omninove integrates with Obsidian via the [obsidian-omnivore](https://github.com
 4. Open the Omnivore plugin settings in Obsidian and add your API key.
 5. Run Omnivore sync by opening the command palette (Ctrl + P or CMD + P). Type Omnivore and select the option **Omnivore: Sync**.
 
-## Customizing which data is synced from Omnivore to Obsidian 
+## Customizing Which Data is Synced from Omnivore to Obsidian
 
 When you sync your data from Omnivore to Obsidian, you can choose which data you want to sync. You can filter the data based on the folder, the labels attached to the item, and etc.
 
-### Custom Query 
+### Custom Query
 
 The Omnivore Obsidian plugin allows you to use Omnivore's [advanced search syntax](https://docs.omnivore.app/using/search.html) to filter the data you want to sync from Omnivore to Obsidian. You can enter a custom query in the plugin settings under **Custom Query**. For example, if you want to sync only the items tagged with `Obsidian`, you can enter `in:all label:Obsidian` in the Custom Query.
 
-### Filter 
+### Filter
 
 ![Obsidian Sync Filter](https://proxy-prod.omnivore-image-cache.app/0x0,seuXpwKxUI_VTu6lYrWHX6KVQmTvOiuYMTnNF7-fSXXQ/https://docs.omnivore.app/assets/obsidian-sync-filter.72c91f34.png)
 
@@ -65,11 +65,11 @@ WARNING
 
 Changing the filter will automatically update **Custom Query** to reflect the new filter.
 
-## Controlling the layout of the data imported to Obsidian 
+## Controlling the Layout of the Data Imported to Obsidian
 
 The Omnivore Obsidian plugin uses the [mustache](https://mustache.github.io/) template language to define how imported data is saved to Obsidian. The plugin settings allow you to define the template for an article layout. The default templates will be used if you do not define your own.
 
-### Mustache template language 
+### Mustache Template Language
 
 Mustache is a simple and logic-less templating language that allows you to create templates that are easy to read and maintain. Mustache templates consist of tags, which are placeholders that are replaced with actual values when the template is rendered.
 
@@ -87,7 +87,7 @@ In addition to the basic Mustache tags, there are also several built-in Mustache
 * `{{& variable }}` or `{{{ variable }}}`: Renders the value of a variable without escaping HTML characters.
 * `{{> partial }}`: Renders a partial template, which is a reusable template that can be included in other templates.
 
-### Variables available in the article template 
+### Variables Available in the Article Template
 
 * id: The id of the article. This will be used as the id of the file in frontmatter
 * title: The title of the article
@@ -145,7 +145,7 @@ Default template:
 
 ```
 
-### Importing the Full Article Content 
+### Importing the Full Article Content
 
 Full content import does not work for PDFs
 
@@ -182,7 +182,7 @@ Simplified template with full content and file attachment, if it there is one.
 
 ```
 
-### Function map in the article template 
+### Function Map in the Article Template
 
 * lowerCase: Converts a string to lowercase
 * upperCase: Converts a string to uppercase
@@ -196,7 +196,7 @@ state:: [[{{#lowerCase}}{{state}}{{/lowerCase}}]]
 
 ```
 
-### Front Matter 
+### Front Matter
 
 [While most of the text in a note is meant to be read by a human, metadata is text that's meant to be easily readable by a program, for example a community plugin or Obsidian itself.](https://help.obsidian.md/Editing+and+formatting/Metadata) The front matter includes the metadata at the top of the note in YAML format. You can enter the metadata separated by comma and you can also use custom aliases in the format of `metadata::alias`. For example, `date_saved::date` will generate in the front matter.
 
@@ -223,7 +223,7 @@ The default metadata are `title, author, tags, date_saved, date_published`.
 
 Please note that `id` will always be included in the front matter for the purpose of deduplication.
 
-### Front Matter Template 
+### Front Matter Template
 
 The front matter template is used to override the front matter of the file. It will only be used when it is set. If it is not set, the front matter will be generated automatically based on the metadata defined in "Front Matter" section under basic settings.
 
@@ -239,23 +239,23 @@ tags: Captures/{{#labels}} - {{{name}}}
 date_saved: {{{dateSaved}}}
 ```
 
-## Customizing where the data is saved in Obsidian 
+## Customizing where the Data is Saved in Obsidian
 
 You can customize where the data is saved in Obsidian by defining the **Folder** and **Filename** templates in the plugin settings.
 
-### Folder 
+### Folder
 
 Enter a folder name for the note. You can either use a fixed folder name or a template. If you use a template, the folder name will be generated based on the template. For example, if you enter `{{{ siteName }}}`, the folder name will be the name of the site the item was saved from so that the notes are organized by site.
 
-### Filename 
+### Filename
 
 Enter a filename for the note. You can either use a fixed filename or a template. If you use a template, the filename will be generated based on the template. For example, if you enter `{{{ title }}}`, the filename will be the title of the item.
 
-### Available variables and functions for Folder and Filename templates 
+### Available Variables and Functions for Folder and Filename Templates
 
 The meaning and usage of each variable and function is the same as the [variables and functions in the article template](#variables-available-in-the-template) and [function map in the article template](#function-map-in-the-article-template).
 
-#### Variables 
+#### Variables
 
 * id
 * title
@@ -267,18 +267,18 @@ The meaning and usage of each variable and function is the same as the [variable
 * dateArchived
 * dateRead
 
-#### Functions 
+#### Functions
 
 * lowerCase
 * upperCase
 * upperCaseFirst
 * formatDate
 
-### Sync all the items into a single note 
+### Sync All the Items into a Single Note
 
 By default, Omnivore will sync items into separate notes in Obsidian. If you would like to sync all your items into a single note, you can turn on the option **Is Single File** and use a fixed **Filename** in the plugin settings.
 
-## Scheduled Sync 
+## Scheduled Sync
 
 By default, Omnivore does not automatically sync your data. You can enable scheduled sync by entering a number of minutes in the **Frequency** setting. For example, if you enter `60`, Omnivore will sync your data every hour and you can always turn it off by entering `0`.
 
