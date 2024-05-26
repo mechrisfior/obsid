@@ -1,5 +1,6 @@
 ---
 type: collection
+aliases: []
 ---
 ```set
 scope:
