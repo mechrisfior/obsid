@@ -233,11 +233,9 @@ A sample front matter template:
 
 ```handlebars
 id: {{{id}}}
-title: >
-  {{{title}}}
-{{#author}}
-author: >
-  {{{author}}}
+title:  {{{title}}}
+
+author: {{{author}}}
 {{/author}}
 {{#labels.length}}
 tags:
