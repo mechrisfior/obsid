@@ -5,12 +5,12 @@ Facebook posts to sparkle conversation and get to know more people in Direct mes
 
 These Facebook posts are designed to spark conversation and engagement within the respective groups. They invite members to share their experiences, tips, and insights, creating a positive and inclusive environment.  As people engage with the posts, Sarah can leverage the interactions to initiate direct messages, build connections, and send friendship requests to like-minded individuals.
 ### **Facebook Post 1: Health and Wellness Journey 🌿**
-🌟 **Caption:** "Embarking on a health and wellness journey and looking for kindred spirits! 💚 What's your go-to wellness ritual that keeps you grounded and motivated? Let's share our favorite self-care practices! #WellnessJourney #HealthyLiving"
+🌟 **Caption:** "Embarking on a health and wellness journey and looking for kindred spirits! 💚 What's your go-to wellness ritual that keeps you grounded and motivated? Let's share our favorite self-care practices! WellnessJourney HealthyLiving
 
 ---
 
 ### **Facebook Post 2: Outdoor Adventure Tales 🏞️**
-🚀 **Caption:** "Calling all adventure seekers! Share your most memorable outdoor adventure and let's inspire each other to explore new horizons. 🌄 From hiking trails to hidden gems, let's create a virtual adventure scrapbook! #OutdoorAdventures #ExploreNature"
+🚀 **Caption:** "Calling all adventure seekers! Share your most memorable outdoor adventure and let's inspire each other to explore new horizons. 🌄 From hiking trails to hidden gems, let's create a virtual adventure scrapbook! #Outd"
 
 ---
 
