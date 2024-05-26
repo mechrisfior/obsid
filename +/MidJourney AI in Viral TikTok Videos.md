@@ -4,7 +4,7 @@ tags:
   - MidJourney
   - TikTok
   - AI
-up:
+up: "[[TikTok Marketing MOC]]"
 ---
 ### Table of Contents
    1. [[Introduction to MidJourney AI]]
