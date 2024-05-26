@@ -4,7 +4,7 @@ source: https://drive.google.com/drive/folders/1cEKSSK_IG54XUSkiXzaInZDKQsKtY1IR
 Summary: You get the audio first, then you can sync your generated image talking head audio through the d-id platform
 video timestamps: 50:32
 ---
-- get the script
+- ![[How to generate talking head videos like UrbanAmericaHorror.mp4]]get the script
 - Generate audio
 -  give the script to GPT
 	- Make me Midjourney Prompts

@@ -1,5 +1,10 @@
 ---
-up: [[TikTok Marketing MOC]]
+up:
+  - - TikTok Marketing MOC
+down:
+  - "[[Creating Talking Heads Video Like UrbanAmerica]]"
+tags:
+  - MOC/TikTok
 ---
 
 # MODULE 1
