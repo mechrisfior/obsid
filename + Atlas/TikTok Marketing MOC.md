@@ -125,10 +125,10 @@ This will also make or break your video. While a hook is key to capturing your v
 ## Crisp Audio
 
 You want to make sure your video has a good voice-over & music. 
+
 [ElevenLabs](https://try.elevenlabs.io/rdwun2gcsw87 "ElevenLabs
 (https://try.elevenlabs.io/rdwun2gcsw87)") - High-quality AI voice-overs. 
-[YouTube](https://www.youtube.com/ "YouTube
-(https://www.youtube.com/)") - Find & download background music.
+[YouTube](https://www.youtube.com/ "YouTube (https://www.youtube.com/)") - Find & download background music.
 [Free SFX bundle](https://howtoai.pro/products/trending-tiktok-sound-effects "Free SFX bundle
 (https://howtoai.pro/products/trending-tiktok-sound-effects)") - Trending sound effects for your content.
 
@@ -170,4 +170,10 @@ There’s a chance that the niche you pick won’t be good, or perform well enou
 
 - Always keep up with trends to know if there's any major development in your niche that can help you go viral.
 
-This can be done through supervising your competitors and analysing any viral content they post. Trendy memes can also be used in your content to boost engagement. A great example of this is the texting niche. Here's a regular texting niche account: [https://www.tiktok.com/@texty.stories.daily](https://www.tiktok.com/@texty.stories.daily "https://www.tiktok.com/@texty.stories.daily") Here's a new twist to the niche that emerged, causing some creators to BLOW UP: [https://www.tiktok.com/@mr.month](https://www.tiktok.com/@mr.month "https://www.tiktok.com/@mr.month") All they did was swap the AI voice-over to one that is singing. **And with that you should be able to make your first $$$ with TikTok.**
+This can be done through supervising your competitors and analysing any viral content they post. 
+
+Trendy memes can also be used in your content to boost engagement. A great example of this is the texting niche. 
+
+Here's a regular texting niche account: [https://www.tiktok.com/@texty.stories.daily](https://www.tiktok.com/@texty.stories.daily "https://www.tiktok.com/@texty.stories.daily") 
+
+Here's a new twist to the niche that emerged, causing some creators to BLOW UP: [https://www.tiktok.com/@mr.month](https://www.tiktok.com/@mr.month "https://www.tiktok.com/@mr.month") All they did was swap the AI voice-over to one that is singing. **And with that you should be able to make your first $$$ with TikTok.**
