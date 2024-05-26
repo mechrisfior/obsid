@@ -1,7 +1,7 @@
 ---
 up: "[[TikTok Marketing Best Practices]]"
 source: https://drive.google.com/drive/folders/1cEKSSK_IG54XUSkiXzaInZDKQsKtY1IR
-Summary: You get the audio first, then you can sync
+Summary: You get the audio first, then you can sync your generated image talking head audio through the d-id platform
 ---
 - get the script
 - Generate audio
