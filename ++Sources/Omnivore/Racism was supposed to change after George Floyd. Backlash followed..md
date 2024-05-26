@@ -16,7 +16,7 @@ tags:
 
 ---
 
-## Millions protested in the streets after George Floyd's death, hoping to improve America's race relations. Then the backlash began.
+## Millions Protested in the Streets after George Floyd's Death, Hoping to Improve America's Race Relations. Then the Backlash Began.
 
 ![](https://proxy-prod.omnivore-image-cache.app/0x0,s7yn43v8fhyK5JdRJalgAiMprce2vTkXUJdNU_oldxyQ/https://www.gannett-cdn.com/presto/2021/03/30/USAT/75eb2874-53ce-4bd5-89bb-6d7ca59fd948-DESK.00_00_18_29.Still008.jpg)
 
@@ -54,7 +54,7 @@ The failure of Congress to pass a [sweeping reform package in 2021](https://www.
 
 But amid widespread pessimism some police reform advocates point to flickering progress. Those still in the trenches say efforts to establish alternative public safety models at the local and state level underscores that Floyd's ghastly death was not completely in vain.
 
-## A 'very sad day' gobbled up by Washington's inaction
+## A 'very Sad Day' Gobbled up by Washington's Inaction
 
 In the immediate aftermath of the viral video showing Minneapolis Police Officer Derek Chauvin kneeling on Floyd's neck for 9 minutes 29 seconds, according to state prosecutors, Washington appeared ready to unclench its partisan fists.
 
@@ -100,7 +100,7 @@ Meuser noted that Americans are more anxious about crime (which rose during the 
 
 "I want kids to understand police are there to truly protect and serve," he said.
 
-## Pitting fear of crime against racial justice
+## Pitting Fear of Crime against Racial Justice
 
 Hundred of miles from Congress in Minneapolis, the city where Floyd lived and ultimately perished, Rosemary Nevils Williams thought Floyd's murder would be a wake-up call for her hometown as well as the country.
 
@@ -126,7 +126,7 @@ He said opponents to those achievements have spent decades aiming their message 
 
 "They have figured out the recipe," Graves said. "They still have enough pissed off, disenfranchised and uneducated white men in this country to where every time, every little semblance of Black progress, you name it, they automatically spin that into zero sum games: 'They're getting it, you're not getting it.'"
 
-## How Floyd's death shapes 2024 politics
+## How Floyd's Death Shapes 2024 Politics
 
 Accountability for law enforcement officers doesn't register as a top issue for Americans.
 
