@@ -105,7 +105,9 @@ Finding something you are passionate about always helps as when the times get to
 
 ‎ ‎Here's a list of some great current niches. This is about 5% of the niche list available in ⁠🚀│upgrade. The niche list is being continously updated with untapped niches. ‎
 
-Avoid Saying The Same Thing As Me - [https://www.tiktok.com/@ai_aestheticc](https://www.tiktok.com/@ai_aestheticc "https://www.tiktok.com/@ai_aestheticc") 
+Avoid Saying The Same Thing As Me - [https://www.tiktok.com/@ai_aestheticc]
+
+(https://www.tiktok.com/@ai_aestheticc "https://www.tiktok.com/@ai_aestheticc") 
 Le Engin - [https://www.tiktok.com/@le.engin](https://www.tiktok.com/@le.engin "https://www.tiktok.com/@le.engin")
 Geo Facts - [https://www.tiktok.com/@geofactsop](https://www.tiktok.com/@geofactsop "https://www.tiktok.com/@geofactsop")
 Hopecore - [https://www.tiktok.com/@hopemotives](https://www.tiktok.com/@hopemotives "https://www.tiktok.com/@hopemotives")
