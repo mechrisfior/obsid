@@ -4,7 +4,7 @@ up:
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - timeline
-  - daily-note
+  - log/daily
 Summary: Another Day Without A Summary...
 ---
 ---
